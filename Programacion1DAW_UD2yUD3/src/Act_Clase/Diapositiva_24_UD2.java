@@ -2,7 +2,7 @@ package Act_Clase;
 
 import java.util.Scanner;
 
-public class Diapositiva_24 {
+public class Diapositiva_24_UD2 {
 	
 	public static void main(String[] args) {
 		pedirNumero(2);
